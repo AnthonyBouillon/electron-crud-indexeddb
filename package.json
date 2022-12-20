@@ -25,7 +25,7 @@
     "sqlite3": "https://github.com/mapbox/node-sqlite3/tarball/master"
   },
   "dependencies": {
-    "knex": "^0.19.1",
+    "knex": "^2.3.0",
     "sequelize": "^5.11.0"
   }
 }
